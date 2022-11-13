@@ -14,8 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 # 💫 About Me:
 Hi! I'm Jonathan, a student and undergraduate instructor at UC Berkeley!<br>I'm currently deepening my Statistical and Machine Learning knowledge through upper-division Statistics and Data Science Courses
+
 
 
 
