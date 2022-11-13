@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 Hi! I'm Jonathan, a student and undergraduate instructor at UC Berkeley!<br>I'm currently deepening my Statistical and Machine Learning knowledge through upper-division Statistics and Data Science Courses
 
 
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jonathanferrari) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jf.errari) 
