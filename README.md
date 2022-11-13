@@ -76,7 +76,7 @@ Hi! I'm Jonathan, a student and undergraduate instructor at UC Berkeley!<br>I'm 
 
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=darcula)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=jonathanferrari&icon=1&color=1)](https://visitcount.itsvg.in)
