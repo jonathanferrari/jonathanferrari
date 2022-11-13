@@ -68,13 +68,12 @@ Hi! I'm Jonathan, a student and undergraduate instructor at UC Berkeley!<br>I'm 
 ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=plastic&logo=django&logoColor=white&color=ff1709&labelColor=gray) 
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) 
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=jonathanferrari&theme=darcula&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jonathanferrari&theme=darcula&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanferrari&theme=darcula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=jonathanferrari&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
