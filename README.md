@@ -77,7 +77,7 @@ Hi! I'm Jonathan, a student and undergraduate instructor at UC Berkeley!<br>I'm 
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=jonathanferrari&theme=darcula&hide_border=true&include_all_commits=false&count_private=true&show_icons=true&bg_color=00000000)<br/>
+![](https://github-readme-stats.vercel.app/api?username=jonathanferrari&theme=darcula&hide_border=true&include_all_commits=false&count_private=true&show_icons=true&bg_color=00000000&hide=commits,issues,contribs)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanferrari&theme=darcula&hide_border=true&include_all_commits=true&count_private=true&layout=compact&hide=html,dart,c,cmake&bg_color=00000000)
 
 
