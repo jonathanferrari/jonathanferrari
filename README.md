@@ -78,7 +78,6 @@ Hi! I'm Jonathan, a student and undergraduate instructor at UC Berkeley!<br>I'm 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=jonathanferrari&theme=darcula&hide_border=true&include_all_commits=false&count_private=true&show_icons=true&bg_color=00000000)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=jonathanferrari&theme=darcula&hide_border=true&bg_color=00000000)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanferrari&theme=darcula&hide_border=true&include_all_commits=true&count_private=true&layout=compact&hide=html,dart,c,cmake&bg_color=00000000)
 
 
