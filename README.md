@@ -4,6 +4,12 @@
 </h1>
 
 <!--
+References
+ - Proudly created with GPRM ( https://gprm.itsvg.in )
+ - Blog post: https://www.sitepoint.com/github-profile-readme/
+-->
+
+<!--
 **jonathanferrari/jonathanferrari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -100,5 +106,5 @@ Hi! I'm Jonathan, a student and undergraduate instructor at UC Berkeley!<br>I'm 
 ---
 [![](https://visitcount.itsvg.in/api?id=jonathanferrari&icon=1&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
